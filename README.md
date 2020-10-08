@@ -1,5 +1,5 @@
 # most-used-words
-Projeto Most Used Words - Aplicação Desktop com JS, ElectronJS e VueJS.
+Projeto Most Used Words - Aplicação Desktop com JS, ElectronJS e VueJS com Vuetify.
 
 ## Project setup
 ```
